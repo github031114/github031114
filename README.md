@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @github031114
-- 👀 I’m interested in C++
+- 👀 I’m interested in C/C++,Python
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
